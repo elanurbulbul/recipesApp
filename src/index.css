@@ -44,7 +44,7 @@ main {
   @apply mx-2 opacity-50 hover:opacity-100 default-transition;
 }
 .navbar-brand-wrapper {
-  @apply border-y-[1px] border-gray/20 py-5;
+  @apply border-y-[1px] border-gray/20 py-3;
 }
 .navbar-brand-wrapper .container {
   @apply flex justify-center;
