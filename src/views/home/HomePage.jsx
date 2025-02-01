@@ -1,7 +1,10 @@
-import React from 'react'
+import BannerSlider from "../../components/common/BannerSlider"
+
 const HomePage = () => {
   return (
-    <div className=''>HomePsdagasdae</div>
+    <main className='home-page custom-min-h'> 
+      <BannerSlider />
+    </main>
   )
 }
 
